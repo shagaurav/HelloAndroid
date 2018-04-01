@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="web">all</string>
+    <string name="action_settings">Settings</string>
+    <string name="linktosite">
+        <a href="https://www.google.co.in/maps/place/2465+Latham+St,+Mountain+View,+CA+94040,+USA/@37.3999175,-122.1105521,17z/data=!3m1!4b1!4m5!3m4!1s0x808fb098443680fd:0xc806a7a80752e40c!8m2!3d37.3999133!4d-122.1083634">2465 Latham St Mountain View, CA 94043</a>
+    </string>
+</resources>
